@@ -1,6 +1,5 @@
-from PyQt4.QtCore import *
-from PyQt4.QtGui import QMainWindow, QFileDialog, QInputDialog, QApplication, QLineEdit
-# from PyQt4.QtGui import *
+from PyQt5.QtCore import *
+from PyQt5.QtWidgets import *
 from MainDesign import *
 import datetime
 import os, sys
